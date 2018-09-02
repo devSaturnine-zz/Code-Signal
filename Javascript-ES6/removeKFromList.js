@@ -22,7 +22,7 @@ function removeKFromList(l, k) {
 }
 
 
-
+/*
 Note: Try to solve this task in O(n) time using O(1) additional space, where n is the number of elements in the list.
 
 Given a singly linked list of integers l and an integer k, remove all elements from list l that have a value equal to k.
@@ -55,3 +55,4 @@ Guaranteed constraints:
 [output] linkedlist.integer
 
 Return l with all the values equal to k removed.
+*/
